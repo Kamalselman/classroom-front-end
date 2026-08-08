@@ -2,7 +2,7 @@ import React from 'react'
 
 const SubjectsCreate = () => {
     return (
-        <div>Create</div>
+        <div>fuck u</div>
     )
 }
 export default SubjectsCreate;
