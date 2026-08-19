@@ -84,7 +84,6 @@ const SubjesctsList = () => {
        }
     })
 
-    // @ts-ignore
     return (
       <ListView>
               <Breadcrumb />
