@@ -5,7 +5,8 @@ import { defineConfig } from "vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-   base: "/classroom-front-end/",
+   // base: "/classroom-front-end/",
+   base: "https://kamalselman.github.io/classroom-front-end/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
